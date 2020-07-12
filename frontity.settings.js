@@ -1,10 +1,10 @@
 const settings = {
-  "name": "CodeNawis - Fashion Jackson",
+  "name": "CygnetGSP - Uptodate Blog",
   "state": {
     "frontity": {
-      "url": "https://newschin.mymakarim.vercel.app",
-      "title": "CodeNawis",
-      "description": "A NextJs clone of FashionJackson.com"
+      "url": "https://www.cygnetgsp.in",
+      "title": "CygnetGSP",
+      "description": "A NextJs clone of CygnetGSP"
     }
   },
   "packages": [
@@ -18,24 +18,36 @@ const settings = {
               "/"
             ],
             [
-              "Casual",
-              "/category/outfits/casual/"
+              "ASP SOLUTIONśś",
+              "/category/asp-solution/"
             ],
             [
-              "Collage",
-              "/category/collage/"
+              "GST",
+              "/category/gst/"
             ],
             [
-              "Fashion",
-              "/category/fashion/"
+              "GST GUIDE",
+              "/category/gst-guide/"
+            ],
+             [
+              "GST Notification",
+              "/category/gst-notifications/"
+            ],
+             [
+              "Vendor Management",
+              "/category/vendor-management/"
             ],
             [
-              "Beauty",
-              "/category/beauty/"
+              "E-way Bill Solution",
+              "/category/e-way-bill-solution/"
             ],
-            [
-              "Black Blazer",
-              "/category/black-blazer/"
+             [
+              "About Us",
+              "/about-us/"
+            ],
+             [
+              "Company",
+              "/category/company/"
             ]
           ],
           "featured": {
@@ -49,7 +61,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "api": "https://fashionjackson.com/wp-json"
+          "api": "https://www.cygnetgsp.in/wp-json"
         }
       }
     },

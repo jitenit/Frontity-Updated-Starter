@@ -13,7 +13,7 @@ const Footer = ({ state }) => {
         <Hr />
         <FlexBetween>
           <span>{state.frontity.description}</span>
-          <a href="https://github.com/mymakarim" target="_blank" rel="noopener noreferrer">with Love by @mymakarim @codenawis</a>
+          <a href="https://github.com/jitenit" target="_blank" rel="noopener noreferrer">with Love by @jitendra and Cygnet</a>
         </FlexBetween>
         <br/>
       </Container>

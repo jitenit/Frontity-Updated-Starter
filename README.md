@@ -14,7 +14,13 @@
 9. Better Pagination
 10. Footer
 
-:zap: Check out the [demo site here](http://newschin.mymakarim.vercel.app//).
+++ Addon are here
+
++ New look design
++ More flexiblity and advance look 
+
+
+:zap: Check out the [demo site here](#comingSoon).
 
 # Demo 
 
@@ -53,7 +59,7 @@
             ],
             [
               "News",
-              "/category/news/"
+              "/category/ADD SLUG HERE from your WP category url /"
             ],
             [
               "Featured",
@@ -61,11 +67,11 @@
             ],
             [
               "Report",
-              "/category/report/"
+              "/category/####/"
             ],
             [
               "MultiMedia",
-              "/category/multimedia/"
+              "/category/####/"
             ],
             [
               "About Us",
@@ -93,7 +99,8 @@
 
 ## Authors
 
-1. [Yahya Makarim](https://instagram.com/codenawis)
+1. [Jitendra Popat ](https://profiles.wordpress.org/jitenit/)
+2. [Yahya Makarim]
 
 ## License :scroll:
 

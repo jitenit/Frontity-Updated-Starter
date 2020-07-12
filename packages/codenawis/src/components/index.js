@@ -106,7 +106,7 @@ const globalStyles = css`
 `;
 
 const HeadContainer = styled.div`
-  background-color: black;
+  background-color: #050048;
 `;
 
 const Main = styled.div`

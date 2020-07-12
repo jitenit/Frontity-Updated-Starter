@@ -1,28 +1,38 @@
 export const categoryWidgets = [
   {
-    id: 2189,
-    slug: "black-blazer",
+    id: 30,
+    slug: "gst-guide",
+    length: 8
+  },
+  {
+    id: 11,
+    slug: "gst",
     length: 4
   },
   {
-    id: 931,
-    slug: "beauty",
+    id: 41,
+    slug: "gst-notifications",
     length: 4
   },
   {
-    id: 3,
-    slug: "fashion",
-    length: 6
+    id: 40,
+    slug: "vendor-management",
+    length: 2
   },
   {
-    id: 168,
-    slug: "collage",
+    id: 9,
+    slug: "asp-solution",
     length: 4
   },
   {
-    id: 2370,
-    slug: "outfits/casual",
-    length: 6
+    id: 32,
+    slug: "e-invoicing-gst",
+    length: 4
+  },
+  {
+    id: 12,
+    slug: "company",
+    length: 3
   }
 ];
 
@@ -54,7 +64,7 @@ export const sections = [
         imageHeight: "450px"
       }
     ],
-    slug: "casual"
+    slug: "gst-guide"
   },
   {
     grid: "m4",
@@ -73,7 +83,7 @@ export const sections = [
         flex: "column"
       }
     ],
-    slug: "collage"
+    slug: "vendor-management"
   },
   {
     grid: "m4",
@@ -92,7 +102,7 @@ export const sections = [
         flex: "column"
       }
     ],
-    slug: "beauty"
+    slug: "gst-guide"
   },
   {
     grid: "m4",
@@ -111,7 +121,7 @@ export const sections = [
         flex: "column"
       }
     ],
-    slug: "black-blazer"
+    slug: "gst"
   },
   {
     grid: "m12",
@@ -135,7 +145,7 @@ export const sections = [
         flex: "column"
       }
     ],
-    "slug": "casual"
+    "slug": "asp-solution"
   },
   {
     grid: "m12",
@@ -148,7 +158,7 @@ export const sections = [
         imageHeight: "500px"
       }
     ],
-    "slug": "black-blazer",
+    "slug": "gst",
   },
   {
     grid: "m12",
@@ -175,7 +185,7 @@ export const sections = [
         imageHeight: "240px"
       }
     ],
-    "slug": "fashion",
+    "slug": "gst-notifications",
   },
   {
     grid: "m8",
@@ -187,7 +197,7 @@ export const sections = [
         flex: "column"
       }
     ],
-    "slug": "casual",
+    "slug": "gst-guide",
   },
   {
     grid: "m4",
@@ -199,6 +209,6 @@ export const sections = [
         flex: "column"
       }
     ],
-    "slug": "casual",
+    "slug": "e-invoicing-gst",
   }
 ];
