@@ -42,12 +42,12 @@ const settings = {
               "/category/e-way-bill-solution/"
             ],
              [
-              "About Us",
-              "/about-us/"
-            ],
-             [
               "Company",
               "/category/company/"
+            ],
+            [
+              "Back to Main Website",
+              "https://www.cygnetgsp.in/"
             ]
           ],
           "featured": {
