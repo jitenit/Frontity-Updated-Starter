@@ -1,6 +1,6 @@
-# CodeNawis Frontity Theme :art:
+# CGsp - WordpressFrontity Theme :art:
 
-:fire: A Frontity Theme for Wordpress site.
+:fire: A Frontity Theme for Wordpress site using one of starter theme
 
 # More than Mars Theme
 1. Sharing Buttons
@@ -14,23 +14,27 @@
 9. Better Pagination
 10. Footer
 
-:zap: Check out the [demo site here](http://newschin.mymakarim.vercel.app//).
+:zap: Check out the [demo site here](#comingsoon).
 
 # Demo 
 
 <p align="center">
-  <img alt="Frontity-codenawis" src="assets/demo.png">
+  <img alt="Frontity-cgsp" src="assets/homepage.png">
+</p>
+
+<p align="center">
+  <img alt="Frontity-cgsp" src="assets/demo.png">
 </p>
 <p align="left">
-  <img alt="Frontity-codenawis" src="assets/demo-2.png">
+  <img alt="Frontity-cgsp" src="assets/demo-2.png">
 </p>
 
 # Installation :wrench:
 
 ## 1. For new projects: clone this project.
 
-1. `git clone https://github.com/mymakarim/frontity-codenawis`.
-2. `cd frontity-codenawis`.
+1. `git clone https://github.com/....`.
+2. `cd frontity-cgsp`.
 3. `npm install && npx frontity dev` (from the project's root directory).
 
 4. Your site will now be available at `http://localhost:3000/`
