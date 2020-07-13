@@ -1,6 +1,6 @@
-# CodeNawis Frontity Theme :art:
+# CGsp - WordpressFrontity Theme :art:
 
-:fire: A Frontity Theme for Wordpress site.
+:fire: A Frontity Theme for Wordpress site using one of starter theme
 
 # More than Mars Theme
 1. Sharing Buttons
@@ -14,29 +14,27 @@
 9. Better Pagination
 10. Footer
 
-++ Addon are here
-
-+ New look design
-+ More flexiblity and advance look 
-
-
-:zap: Check out the [demo site here](#comingSoon).
+:zap: Check out the [demo site here](#comingsoon).
 
 # Demo 
 
 <p align="center">
-  <img alt="Frontity-codenawis" src="assets/demo.png">
+  <img alt="Frontity-cgsp" src="assets/homepage.png">
+</p>
+
+<p align="center">
+  <img alt="Frontity-cgsp" src="assets/demo.png">
 </p>
 <p align="left">
-  <img alt="Frontity-codenawis" src="assets/demo-2.png">
+  <img alt="Frontity-cgsp" src="assets/demo-2.png">
 </p>
 
 # Installation :wrench:
 
 ## 1. For new projects: clone this project.
 
-1. `git clone https://github.com/mymakarim/frontity-codenawis`.
-2. `cd frontity-codenawis`.
+1. `git clone https://github.com/....`.
+2. `cd frontity-cgsp`.
 3. `npm install && npx frontity dev` (from the project's root directory).
 
 4. Your site will now be available at `http://localhost:3000/`
@@ -59,7 +57,7 @@
             ],
             [
               "News",
-              "/category/ADD SLUG HERE from your WP category url /"
+              "/category/news/"
             ],
             [
               "Featured",
@@ -67,11 +65,11 @@
             ],
             [
               "Report",
-              "/category/####/"
+              "/category/report/"
             ],
             [
               "MultiMedia",
-              "/category/####/"
+              "/category/multimedia/"
             ],
             [
               "About Us",
@@ -95,12 +93,11 @@
 
 ## Credits :white_flower:
 
-- Build with love :blue_heart:, using [Frontity's](https://frontity.org) [mars-theme](https://www.npmjs.com/package/@frontity/mars-theme) as base.
+- Build with love :blue_heart:, using [Frontity's](https://frontity.org) [mars-theme](https://www.npmjs.com/package/@frontity/mars-theme) and codenawis by Yahya as base.
 
 ## Authors
 
-1. [Jitendra Popat ](https://profiles.wordpress.org/jitenit/)
-2. [Yahya Makarim]
+1. [Yahya Makarim](https://instagram.com/codenawis)
 
 ## License :scroll:
 
