@@ -93,7 +93,7 @@
 
 ## Credits :white_flower:
 
-- Build with love :blue_heart:, using [Frontity's](https://frontity.org) [mars-theme](https://www.npmjs.com/package/@frontity/mars-theme) as base.
+- Build with love :blue_heart:, using [Frontity's](https://frontity.org) [mars-theme](https://www.npmjs.com/package/@frontity/mars-theme) and codenawis by Yahya as base.
 
 ## Authors
 
