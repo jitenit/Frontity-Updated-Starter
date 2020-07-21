@@ -18,7 +18,7 @@ const settings = {
               "/"
             ],
             [
-              "ASP SOLUTIONśś",
+              "ASP SOLUTIONS",
               "/category/asp-solution/"
             ],
             [
@@ -44,6 +44,10 @@ const settings = {
              [
               "Company",
               "/category/company/"
+            ],
+            [
+              "About",
+              "/about-us/"
             ],
             [
               "Back to Main Website",
